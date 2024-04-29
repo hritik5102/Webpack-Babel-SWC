@@ -1,0 +1,13 @@
+[
+  {
+    "test": ".js?$",
+    "jsc": {
+      "parser": {
+        "syntax": "ecmascript",
+        "jsx": true,
+        "decorators": false,
+        "dynamicImport": true
+      }
+    }
+  }
+]

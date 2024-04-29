@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src", // Base directory to resolve non-relative module names
+    "jsx": "react", // Specify JSX mode: "react" for React JSX
+    "target": "es6" // Specify ECMAScript target version
+  },
+  "include": ["./src"] // Specify files to include for analysis (typically your source code directory)
+}
